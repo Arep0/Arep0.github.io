@@ -1,0 +1,15 @@
+Package: com.Arep0.icons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Arep0 <reponame@example.com>
+Filename: ./debs//com.arep0.icons_1.0_iphoneos-arm.deb
+Size: 21004
+MD5sum: 5f174884d4dab536d30fe51cd479c86a
+SHA1: 206bf9ecf63b1d315f63274d1cff854a9812975f
+SHA256: ebced9dea89eb9b9f66e4e8e87e906bf6c8ac2abfd9b59dc6f2bdf1901f00ab8
+Section: MTweaks
+Description: Adds Icon Images
+Author: Arep0
+Depiction: https://github.com/Arep0/Arep0.github.io
+Name: icons
+

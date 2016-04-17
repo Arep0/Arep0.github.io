@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: Arep0
+Depiction: https://github.com/Arep0/Arep0.github.io
+Description: Adds Icon Images
+Maintainer: Arep0 <reponame@example.com>
+Name: icons
+Package: com.Arep0.icons
+Section: MTweaks
+Version: 1.0
