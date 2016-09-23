@@ -1,12 +1,12 @@
 Package: com.Arep0.classicxiiiWtest
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: classicxii <classicxii@tuta.io>
-Filename: ./debs//com.arep0.classicxiiiwtest_1.0.1_iphoneos-arm.deb
+Filename: ./debs//com.arep0.classicxiiiwtest_1.0.2_iphoneos-arm.deb
 Size: 432548
-MD5sum: 079ddca818cdeae3c57f198f522a9f5a
-SHA1: 3d5ec8e13f33117b3d07164d9bf7cf9f46dfdae4
-SHA256: d9b8358a9e4076d8d6609fcc5055134d46cdf2c4ec99518dc771135219c476d9
+MD5sum: 506b55e839b6251d6e4d3ff684509c19
+SHA1: 8972178ba0d5168474e1847bfd190e815f09566c
+SHA256: 4a537e35726bff2ed3fceb4b77a0f3c283f5e6a4b6d15f8f45458afb761d50a4
 Section: Lockscreen Widgets
 Description: classicxiiiW-Test
 Author: classicxii
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: Arep0 <reponame@example.com>
 Filename: ./debs//com.arep0.icons_1.0.1_iphoneos-arm.deb
 Size: 21022
-MD5sum: e6a9024fc7dfc12e6cd98f1065143c6d
-SHA1: 105e4bb805fb3456516550a06f3acf35c6e2803c
-SHA256: 96a73ce805547af66e6a00cf4ff6a63092e1bbf0333b0b007339e4e80438927d
+MD5sum: b3f1462ae34e2617492f21c061c817c4
+SHA1: a4253aa9f26794501882a1ad86ac84bda61c3031
+SHA256: dec91be32a32b99f2b0534a554e44ad40d998e05de627d12bc4d85b5d2afe774
 Section: MTweaks
 Description: Adds Icon Images
 Author: Arep0
