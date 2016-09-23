@@ -1,18 +1,3 @@
-Package: com.Arep0.classicxiiiWtest
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: classicxii <classicxii@tuta.io>
-Filename: ./debs//com.arep0.classicxiiiwtest_1.0.2_iphoneos-arm.deb
-Size: 432548
-MD5sum: 506b55e839b6251d6e4d3ff684509c19
-SHA1: 8972178ba0d5168474e1847bfd190e815f09566c
-SHA256: 4a537e35726bff2ed3fceb4b77a0f3c283f5e6a4b6d15f8f45458afb761d50a4
-Section: Lockscreen Widgets
-Description: classicxiiiW-Test
-Author: classicxii
-Depiction: https://Arep0.github.io/depictions/?p=com.Arep0.classicxiiiWtest
-Name: classicxiiiWtest
-
 Package: com.Arep0.icons
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -27,4 +12,3 @@ Description: Adds Icon Images
 Author: Arep0
 Depiction: https://Arep0.github.io/depictions/?p=com.Arep0.icons
 Name: icons
-
