@@ -12,19 +12,3 @@ Description: classicxiiiW-Test
 Author: classicxii
 Depiction: https://Arep0.github.io/depictions/?p=com.Arep0.classicxiiiWtest
 Name: classicxiiiWtest
-
-Package: com.Arep0.icons
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Arep0 <reponame@example.com>
-Filename: ./debs//com.arep0.icons_1.0.1_iphoneos-arm.deb
-Size: 21022
-MD5sum: dfe8656bddfbd7aaafc432c8382f8632
-SHA1: 0cae18fc6eff901e1bbae5572d8dc94c2c725dd9
-SHA256: db9f3ceb82fe77d7de67656a007f1d789b68875aa968e216204648d037ddb999
-Section: MTweaks
-Description: Adds Icon Images
-Author: Arep0
-Depiction: https://Arep0.github.io/depictions/?p=com.Arep0.icons
-Name: icons
-
