@@ -1,15 +1,15 @@
-Package: com.Arep0.classicxiiiWtest
+Package: com.classicxiirepo.classicxiiiWtest
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: classicxii <classicxii@tuta.io>
-Filename: ./debs//com.arep0.classicxiiiwtest_1.0_iphoneos-arm.deb
-Size: 432506
-MD5sum: 549e7d40cf5e1220a1ade8228201f6a8
-SHA1: ee7882f685acb8a454b03c134757f01eef8a8256
-SHA256: 790fa2076ab2ac5d04053505132aa82ef5112b50552e07ca56d3fd5b2af6f7c4
+Filename: ./debs//com.classicxiirepo.classicxiiiwtest_1.0_iphoneos-arm.deb
+Size: 432508
+MD5sum: 2ccc6ba8dae6c9704606594f2780477f
+SHA1: 7bb53e77f862b87f94a4a48a39c78ac27d30f38e
+SHA256: 539c8caefe39616207fd8e59cf02facb435fcbf624537e1c845c1ce0711deaf4
 Section: Lockscreen Widgets
 Description: classicxiiiW-Test
 Author: classicxii
-Depiction: https://Arep0.github.io/depictions/?p=com.Arep0.classicxiiiWtest
+Depiction: https://classicxiirepo.github.io/depictions/?p=com.classicxiirepo.classicxiiiWtest
 Name: classicxiiiWtest
 
