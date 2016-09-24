@@ -1,0 +1,12 @@
+Package: com.Nrepo.Nicon
+Name: Nicon
+Architecture: iphoneos-arm
+Section: aTweaks
+Author:  NsBm0d 
+Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.Nicon
+Description: Adds setup files, icons and sources to repo
+Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
+Sponsor: http://nrepo.github.io/
+Essential: yes
+Priority: required
+Version: 1.0.4

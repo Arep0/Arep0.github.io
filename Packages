@@ -1,27 +1,30 @@
-Package: com.Arep0.classicxiiiWtest
-Version: 1.0
+Package: com.Nrepo.Nicon
+Version: 1.0.4
 Architecture: iphoneos-arm
-Maintainer: classicxii <classicxii@tuta.io>
-Filename: ./debs//com.arep0.classicxiiiwtest_1.0_iphoneos-arm.deb
-Size: 432506
-MD5sum: 52c6878dfe890db364528ecc12604996
-SHA1: 8365ebc883679cd6c587fe4bab95a68d427525a5
-SHA256: 83779706602c12f0fd15b23427e26fcad43d94e4778013291785de2989c6c09e
-Section: Lockscreen Widgets
-Description: classicxiiiW-Test
-Author: classicxii
-Depiction: https://Arep0.github.io/depictions/?p=com.Arep0.classicxiiiWtest
-Name: classicxiiiWtest
+Essential: yes
+Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
+Filename: ./debs//com.nrepo.nicon_1.0.4_iphoneos-arm.deb
+Size: 12062
+MD5sum: 16c272cd218bec8ec146fe92b277b257
+SHA1: 60286cc76cf57f313976e1d2c35201608588d681
+SHA256: 4ec4c749dce9e0adea4c0ba824d4c967179b457cccdef338a1c3027d017cc560
+Section: aTweaks
+Priority: required
+Description: Adds setup files, icons and sources to repo
+Author:  NsBm0d 
+Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.Nicon
+Name: Nicon
+Sponsor: http://nrepo.github.io/
 
 Package: com.Nrepo.NsB
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nrepo.nsb_1.0.2_iphoneos-arm.deb
-Size: 633774
-MD5sum: 751af3c77c0c9b5e9fbf3d4e61601a39
-SHA1: 6af3c8fbc585fc8106944f8de845aee045573525
-SHA256: 5cb40b9c6f39bde6f14aa9f799ac738d9da1e0aef90abc6a9347c6b39dfbb532
+Size: 633808
+MD5sum: 54b72a652c052596bcc8a7bc317833c8
+SHA1: ea46194854ea045235b349f5f175160c7f2361ef
+SHA256: b4a175c5d09b79b1c45ad6f542fa582066f2c2eef31f16fda34d10bae9a84200
 Section: aThemes
 Description: Crystal Apple Theme
 Author:  NsBm0d 
