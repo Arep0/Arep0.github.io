@@ -1,27 +1,12 @@
-Package: com.Arep0.NsB
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.arep0.nsb_1.0.2_iphoneos-arm.deb
-Size: 633786
-MD5sum: 6f1bd38c4c8550ffddbd0e69049123d9
-SHA1: d91ae4e7b93eac552ac9fa3edbf0cde21407ba11
-SHA256: 6de02383008ad9ba58930edd0749fe612c8686726472248b0d4d3cf2f14837ff
-Section: aThemes
-Description: Crystal Apple Theme
-Author:  NsBm0d 
-Depiction: https://Arep0.github.io/depictions/?p=com.Arepo.NsB
-Name: NsB
-
 Package: com.Arep0.classicxiiiWtest
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: classicxii <classicxii@tuta.io>
 Filename: ./debs//com.arep0.classicxiiiwtest_1.0_iphoneos-arm.deb
 Size: 432506
-MD5sum: e38a9eaa639f09af2741e79b9b4a60cf
-SHA1: bf18752ae7429e4387f4df0ef175438a6752ef75
-SHA256: a5944cb3190f58f63188b6e507efa4cfdcd1c4344021e3b0a766af8a17638ab3
+MD5sum: e1126f8e9a32f291df374b6811370f52
+SHA1: 0d0d9dac6e62e12369d5bb02b10f39fc7c6dcf5d
+SHA256: 94741237aba6e1ced16f5a7581c4327d3d9e6ca44e0f8fd1ee3ebb085c9aa647
 Section: Lockscreen Widgets
 Description: classicxiiiW-Test
 Author: classicxii
